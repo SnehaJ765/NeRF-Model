@@ -7,5 +7,7 @@ By training a convolutional neural network (CNN) on a dataset of 2D images taken
 the color and density at any point in 3D space. This project is particularly useful in fields like computer graphics, 
 augmented reality, and virtual reality, where realistic 3D scene reconstruction is critical.
 
-________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________
+
+
 
